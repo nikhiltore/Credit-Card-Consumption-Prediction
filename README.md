@@ -18,12 +18,11 @@ Credit card consumption data provides valuable insights into customer behavior. 
 **🗂️ Datasets Used:**
 **The project uses three datasets:**
 1.	CustomerDemographics
-o	Age, Gender, Income, Account Type, Tenure, Region, etc.
+•	Age, Gender, Income, Account Type, Tenure, Region, etc.
 2.	CustomerBehaviorData
-o	Credit/Debit card spends, transaction counts, loans, investments, limits, etc.
+•	Credit/Debit card spends, transaction counts, loans, investments, limits, etc.
 3.	CreditConsumptionData
-o	Target variable: cc_cons (Average credit card spend for next 3 months)
-All datasets are merged using a unique Customer ID.
+•	Target variable: cc_cons (Average credit card spend for next 3 months)
 
 **⚙️ Tech Stack:**
 •	Python
